@@ -1,4 +1,4 @@
-# Valora AI 🚀
+# Valora AI 
 
 **Valora AI** is an Automated Feature Prioritization Engine that predicts the business ROI of product features and helps teams objectively decide what to build next.
 
